@@ -1,0 +1,8 @@
+#message{
+    color: red;
+    font-size: smaller;   
+}
+
+#errorAlert{
+    display: none;
+}

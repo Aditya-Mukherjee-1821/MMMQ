@@ -1,0 +1,27 @@
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+    
+}
+
+.card{
+    width: 30%;
+} */
+
+
+/* #nav-img{
+    height: 3rem;
+    object-fit: contain;
+    border-radius: 2rem;
+} */
+
+#message{
+    color: red;
+    font-size: smaller;   
+}
+
+#errorAlert{
+    display: none;
+}

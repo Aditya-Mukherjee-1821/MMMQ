@@ -1,0 +1,35 @@
+/* #nav-img{
+    height: 3rem;
+    object-fit: contain;
+    border-radius: 2rem;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 15px; */
+    /* padding: 15px; */
+/* } */
+
+/* .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+} */
+
+/* .card{
+    width: 30%;
+    /* height: 20%; */
+    /* overflow-y: scroll; */
+/* } */ 
+
+#message{
+    color: red;
+    font-size: smaller;   
+}
+
+#errorAlert{
+    display: none;
+}

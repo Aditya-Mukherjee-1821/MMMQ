@@ -1,0 +1,94 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap'); */
+*{
+    color: black;
+}
+#nav-img{
+    height: 3rem;
+    object-fit: contain;
+    border-radius: 2rem;
+}
+
+.first{
+    text-align: center;
+    text-decoration: solid;
+    text-decoration-color: blueviolet;
+}
+
+#query{
+    width: 100%;
+    height: 40%;
+    resize: none;
+    
+    /* padding: 2rem; */
+    border-radius: 3px;
+    font-size: larger;
+}
+
+#queryHeading{
+    text-align: left;
+    
+}
+/* #cpp{
+    align-items: center;
+    display: flex;
+    margin-left: 800px;
+} */
+/* #cp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 800px;
+    
+    
+    text-align: left;
+    
+} */
+
+body{
+    /* background-image: url(bg.jpg);
+    ba */
+    background-color: white;
+     /* background-repeat: none; */
+    /* background-position: center; */
+    /* background-size:cover; */
+    /* background-position:20px; */
+    /* overflow: hidden; */
+}
+
+h1{
+    /* padding-bottom: 50px; */
+    align-items: center;
+    /* margin-left: 120px; */
+    /* font-family: 'Fira Sans', sans-serif; */
+    color: black;
+}
+
+h5{
+    font-size: x-large;
+}
+/* .heading{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    font-weight: 800;
+    font-size: xx-large;
+    line-height: 5rem;
+    font-size: 100px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+} */
+textarea{
+    padding: 20px;
+}
+
+#btn{
+    margin: 20px;
+}
+
+#queryAlert{
+    display: none;
+}
+
+.container{
+    padding: 2%;
+}
